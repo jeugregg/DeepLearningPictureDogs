@@ -1,11 +1,12 @@
 # DeepLearningPictureDogs
-OC Projet 6 : Classez des images à l'aide d'algorithmes de Deep Learning
+Classify pictures with Deep Learning Model
 
-Les bénévoles de l'association n'ont pas eu le temps de réunir les différentes images des pensionnaires dispersées sur leurs disques durs. Pas de problème, vous entraînerez votre algorithme en utilisant le Stanford Dogs Dataset (http://vision.stanford.edu/aditya86/ImageNetDogs/).
+This study is to learn to use, create and train  deep learning CNN models (ResNet / VGG).
 
-Votre mission
+A  association help and host a lot of dogs. They need to classify pictures of their animals.
+We can do it with CNN models by training on Stanford Dogs Dataset (http://vision.stanford.edu/aditya86/ImageNetDogs/).
 
-L'association vous demande de *réaliser un algorithme de détection de la race du chien sur une photo*, afin d'accélérer leur travail d’indexation.
+Here is my differents works about this study : 
 
 01_OC_IML_Project_6_explorations.ipynb : exploration
 
