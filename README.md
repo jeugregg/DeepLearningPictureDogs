@@ -3,10 +3,10 @@ Classify pictures with Deep Learning Model
 
 This study is to learn to use, create and train  deep learning CNN models (ResNet / VGG).
 
-A  association help and host a lot of dogs. They need to classify pictures of their animals.
-We can do it with CNN models by training on Stanford Dogs Dataset (http://vision.stanford.edu/aditya86/ImageNetDogs/).
+An association which helps and hosts a lot of dogs need to classify pictures of their animals.
+To do that, it is possible to use CNN models by training on Stanford Dogs Dataset (http://vision.stanford.edu/aditya86/ImageNetDogs/).
 
-Here is my differents works about this study : 
+These is my works about this study : 
 
 01_OC_IML_Project_6_explorations.ipynb : exploration
 
